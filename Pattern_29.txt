@@ -1,0 +1,7 @@
+Print the following pattern in C.
+------------------------------------
+E D C B A
+E D C B A
+E D C B A
+E D C B A
+E D C B A
