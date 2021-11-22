@@ -1,0 +1,6 @@
+Print the follwoing pattern in C.
+0 1 0 1 0
+1 0 1 0 1
+0 1 0 1 0
+1 0 1 0 1
+0 1 0 1 0
