@@ -1,0 +1,6 @@
+Print the following pattern in C.
+0 1 0 1 0
+0 0 0 0 0 
+0 1 0 1 0 
+0 0 0 0 0
+0 1 0 1 0
