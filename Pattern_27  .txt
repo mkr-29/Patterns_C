@@ -1,0 +1,7 @@
+Print the follwoing pattern in  C.
+------------------------------------
+A B C D E
+A B C D E
+A B C D E
+A B C D E
+A B C D E
